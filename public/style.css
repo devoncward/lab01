@@ -1,0 +1,94 @@
+#top {
+  background-color: blue;
+  padding: 20px
+}
+#invertColorButton {
+  position: absolute;
+  top: 10%;
+  left: 37%;
+  background-color: #f44336;
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  font-size: 16px;
+  transition-duration: 0.4s;
+}
+#lab1Button {
+  position: absolute;
+  top: 28%;
+  left: 1%;
+  border: none;
+  color: black;
+  background-color: lightblue;
+  text-align: center;
+  padding: 12px 10px;
+  transition-duration: 2.0s;
+}
+#lab2Button {
+  position: absolute;
+  top: 42.5%;
+  left: 1%;
+  border: none;
+  color: black;
+  background-color: lightblue;
+  text-align: center;
+  padding: 12px 10px;
+  transition-duration: 2.0s;
+}
+#lab3Button {
+  position: absolute;
+  top: 57.2%;
+  left: 1%;
+  border: none;
+  color: black;
+  background-color: lightblue;
+  text-align: center;
+  padding: 12px 10px;
+  transition-duration: 2.0s;
+}
+#lab4Button {
+  position: absolute;
+  top: 72%;
+  left: 1%;
+  border: none;
+  color: black;
+  background-color: lightblue;
+  text-align: center;
+  padding: 12px 10px;
+  transition-duration: 2.0s;
+}
+#invertColorButton:hover {
+  background-color: #d44330;
+  color: white;
+}
+#div1 {
+  background-color: lightblue;
+  transition-duration: 2.0s;
+}
+#title {
+  color : black;
+  transition-duration: 0.0s;
+}
+#div2Hobbies {
+  color : black;
+  transition-duration: 2.0s;
+}
+#labsTitle {
+  color : black;
+  background-color: lightblue;
+  transition-duration: 2.0s;
+}
+#programMeme {
+  transition-delay: 2.0s;
+  visibility: hidden;
+  float: right;
+  top: 100%;
+  width: 50%;
+}
+#programMeme {
+  top: 50px;
+}
+body {
+  transition-duration: 2.0s;
+}
